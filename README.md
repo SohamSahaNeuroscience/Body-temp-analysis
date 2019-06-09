@@ -3,7 +3,7 @@
 you can break the data day by day
 
 
-to analise:
+to analyse:
 
 - min and max temp 
 
